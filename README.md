@@ -1,15 +1,6 @@
 <!-- image -->
 ![22518](https://user-images.githubusercontent.com/110789514/211148613-8a614b68-e527-459d-b6af-717fa28def49.jpg)
 
-
-<!-- skills -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,ai,ps,eclipse,ae,idea,c,cpp,cs" />
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin,lua,py,qt,twitter,vscode,visualstudio,r" />
-  </a>
-</p>
-
 <!-- TABLE -->
 
 | GitHub Stats |  Added on 2023 January 7th |
@@ -20,3 +11,10 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-) ![Profile views](https://komarev.com/ghpvc/?username=sheraadams) - Added 2023 January 7th
 
+<!-- skills -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,ai,ps,eclipse,ae,idea,c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin,lua,py,qt,twitter,vscode,visualstudio,r" />
+  </a>
+</p>
