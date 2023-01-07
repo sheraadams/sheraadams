@@ -18,5 +18,5 @@
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheraadams&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | These stats are for my 5 most used languages. |
 | ![Shera Adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheraadams&show_icons=true&theme=aura) | These stats show total stars earned by my repositories, total commits this year, total PR, total issues, and total repositories that I contributed to last year. |
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-) ![Profile views](https://komarev.com/ghpvc/?username=sheraadams) - These counters were added on 2023 January 7th
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-) ![Profile views](https://komarev.com/ghpvc/?username=sheraadams) - Added 2023 January 7th
 
