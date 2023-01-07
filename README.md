@@ -1,6 +1,3 @@
-
-![1670808622518](https://user-images.githubusercontent.com/110789514/211156156-b6d04073-37f5-473d-b2b2-25b403b541e2.jpg)
-
 <!-- TABLE -->
 | GitHub Stats |  Added on 2023 January 7th |
 |---|---|
