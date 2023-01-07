@@ -1,3 +1,7 @@
+<!-- image -->
+![22518](https://user-images.githubusercontent.com/110789514/211148613-8a614b68-e527-459d-b6af-717fa28def49.jpg)
+
+
 <!-- skills -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -5,11 +9,6 @@
     <img src="https://skillicons.dev/icons?i=instagram,linkedin,lua,py,qt,twitter,vscode,visualstudio,r" />
   </a>
 </p>
-
-<!-- image -->
-![22518](https://user-images.githubusercontent.com/110789514/211148613-8a614b68-e527-459d-b6af-717fa28def49.jpg)
-
-
 
 <!-- TABLE -->
 
