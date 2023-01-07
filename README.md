@@ -1,10 +1,12 @@
+## GitHub Statistics
 <!-- TABLE -->
-| GitHub Stats |  Added on 2023 January 7th |
+| My GitHub Profile Statistics | More information about these GitHub Statistics |
 |---|---|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheraadams&theme=highcontrast)](https://git.io/streak-stats) | ![](https://raw.githubusercontent.com/sheraadams/GitHub_Stats_A/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/sheraadams/GitHub_Stats_A/master/generated/overview.svg#gh-light-mode-only) |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheraadams&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | My 5 most used programming languages. |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheraadams&theme=highcontrast)](https://git.io/streak-stats) | My total contributions and the length of my current streak compared to my all-time longest streak.  |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheraadams&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | My five most used programming languages according to my public GitHub commits. |
 | ![Shera Adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheraadams&show_icons=true&theme=aura) | Total stars earned by my repositories, total commits this year, total PR, total issues, and total repositories that I contributed to last year. |
 
+<h2 align="center">My Skills</h2>
 <!-- skills -->
 <p align="center">
   <a href="https://skillicons.dev">
