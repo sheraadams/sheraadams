@@ -2,11 +2,19 @@
 <!-- TABLE -->
 | My GitHub Profile Statistics | More information about these GitHub Statistics |
 |---|---|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheraadams&theme=highcontrast)](https://git.io/streak-stats) | My total contributions and the length of my current streak compared to my all-time longest streak.  |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheraadams&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | My five most used programming languages according to my public GitHub commits. |
-| ![Shera Adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheraadams&show_icons=true&theme=aura) | Total stars earned by my repositories, total commits this year, total PR, total issues, and total repositories that I contributed to last year. |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheraadams&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8) | My total contributions and the length of my current streak compared to my all-time longest streak.  |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheraadams&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=swift) | My most used programming languages for all GitHub commits. |
+| ![Shera Adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheraadams&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10) | Total stars earned by my repositories, total commits this year, total PR, total issues, and total repositories that I contributed to last year. |
+
+<!-- activity graph -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img alt="Hanumat Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sheraadams&theme=react-dark&hide_border=true" />
+  </a>
+</p>
 
 <h2 align="center">My Skills</h2>
+
 <!-- skills -->
 <p align="center">
   <a href="https://skillicons.dev">
