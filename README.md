@@ -12,11 +12,3 @@
     <img src="https://skillicons.dev/icons?i=instagram,linkedin,lua,py,qt,twitter,vscode,visualstudio,r" />
   </a>
 </p>
-
-<!-- contributors -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square" />
-    <img src="https://komarev.com/ghpvc/?username=sheraadams" />
-  </a>
-</p>
