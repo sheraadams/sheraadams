@@ -16,6 +16,13 @@
     <img src="https://skillicons.dev/icons?i=instagram,linkedin,lua,py,qt,twitter,vscode,visualstudio,r" />
   </a>
 </p>
+## Activity
+<!-- activity graph -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img alt="Hanumat Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sheraadams&theme=tokyo-night&hide_border=true" />
+  </a>
+</p>
 
 <!-- contributors -->
 <p align="center">
