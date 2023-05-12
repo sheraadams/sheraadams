@@ -13,8 +13,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,git,ai,ps,eclipse,ae,idea,c,cpp,cs" />
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin,lua,py,qt,twitter,vscode,visualstudio,r" />
-    <img src="https://skillicons.dev/icons?i=pr,xd,ae,css,html,js,matlab,mysql,linux" />
+    <img src="https://skillicons.dev/icons?i=lua,py,qt,vscode,visualstudio,matlab,mysql,linux,r" />
+    <img src="https://skillicons.dev/icons?i=pr,ae,css,html,js," />
   </a>
 </p>
 
