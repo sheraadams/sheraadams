@@ -12,9 +12,9 @@
 <!-- skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,ai,ps,eclipse,ae,idea,c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=java,git,ai,ps,eclipse,ae,idea,c,cpp,cs,html,js" />
     <img src="https://skillicons.dev/icons?i=lua,py,qt,vscode,visualstudio,matlab,mysql,linux,r" />
-    <img src="https://skillicons.dev/icons?i=pr,ae,css,html,js," />
+    <img src="https://skillicons.dev/icons?i=pr,ae,css" />
   </a>
 </p>
 
