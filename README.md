@@ -8,7 +8,7 @@
 | This is an interactive 3D scene in C++ using OpenGL and GLFW. | ![Textures Image](https://github.com/sheraadams/sheraadams/assets/110789514/a006f2ab-ab94-427a-abd8-cb2c67d9a436) |
 | This is a fractal animation programmed in C++ and OpenGL. | ![Fractals](https://github.com/sheraadams/sheraadams/assets/110789514/1f912288-3f08-481d-aa4f-3509dd846093) |
 | This is a client-server application with a GUI dashboard for user-friendly database interaction. | ![Database Dashboard](https://github.com/sheraadams/sheraadams/assets/110789514/8da7181b-9fc0-43ce-8050-1fbdbc1d57c3) |
-| This is an antiderivative / derivative calculator programmed to assist with mathematical modeling. | ![Derivative Calculator](https://github.com/sheraadams/sheraadams/assets/110789514/ce3dcef7-9813-447e-9af8-d17740bed948) |
+| This is an antiderivative / derivative calculator programmed to assist with mathematical modeling. | ![Derivative Calculator](https://github.com/sheraadams/sheraadams/assets/110789514/b6791c44-374f-4b8b-89fa-74b7947a82d9) |
 
 ## Skill Badges
 
