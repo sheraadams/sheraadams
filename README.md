@@ -3,12 +3,12 @@
 <!-- TABLE -->
 | Project Description | Project Image Preview |
 | --- | --- |
-| This is a Pong-Inspired game in C++ using OpenGL and GLFW. | ![Pong Image](https://github.com/sheraadams/sheraadams/assets/110789514/5cf85874-ac9a-4819-a72f-2dff47ec44f8) |
-| This is an interactive 3D scene in C++ using OpenGL and GLFW. | ![Scene Image](https://github.com/sheraadams/sheraadams/assets/110789514/ac27faa8-b4ed-4516-810a-3004288ed016) |
-| This is an interactive 3D scene in C++ using OpenGL and GLFW. | ![Textures Image](https://github.com/sheraadams/sheraadams/assets/110789514/a006f2ab-ab94-427a-abd8-cb2c67d9a436) |
-| This is a fractal animation programmed in C++ and OpenGL. | ![Fractals](https://github.com/sheraadams/sheraadams/assets/110789514/1f912288-3f08-481d-aa4f-3509dd846093) |
+| This is a [Pong-Inspired game](https://github.com/sheraadams/OpenGL-Pong) in C++ using OpenGL and GLFW. | ![Pong Image](https://github.com/sheraadams/sheraadams/assets/110789514/5cf85874-ac9a-4819-a72f-2dff47ec44f8) |
+| This is an [interactive 3D scene](https://github.com/sheraadams/OpenGl-Catacomb-Scene) in C++ using OpenGL and GLFW. | ![Scene Image](https://github.com/sheraadams/sheraadams/assets/110789514/ac27faa8-b4ed-4516-810a-3004288ed016) |
+| This is an [interactive 3D scene](https://github.com/sheraadams/Shapes-and-PBR-Materials) in C++ using OpenGL and GLFW. | ![Textures Image](https://github.com/sheraadams/sheraadams/assets/110789514/a006f2ab-ab94-427a-abd8-cb2c67d9a436) |
+| This is a [fractal animation](https://github.com/sheraadams/OpenGL-Fractal-Animation) programmed in C++ and OpenGL. | ![Fractals](https://github.com/sheraadams/sheraadams/assets/110789514/1f912288-3f08-481d-aa4f-3509dd846093) |
 | This is a client-server application with a GUI dashboard for user-friendly database interaction. | ![Database Dashboard](https://github.com/sheraadams/sheraadams/assets/110789514/8da7181b-9fc0-43ce-8050-1fbdbc1d57c3) |
-| This is an antiderivative / derivative calculator programmed to assist with mathematical modeling. | ![Derivative Calculator](https://github.com/sheraadams/sheraadams/assets/110789514/6e41a3b4-f6e1-49e0-84ab-e80df98ea6d5) |
+| This is an [antiderivative and derivative calculator](https://github.com/sheraadams/Derivative-and-Integral-Calculator) programmed to assist with mathematical modeling. | ![Derivative Calculator](https://github.com/sheraadams/sheraadams/assets/110789514/6e41a3b4-f6e1-49e0-84ab-e80df98ea6d5) |
 
 ## Skill Badges
 
