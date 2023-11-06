@@ -9,6 +9,7 @@
 | This is a [fractal animation](https://github.com/sheraadams/OpenGL-Fractal-Animation) programmed in C++ and OpenGL. | ![Fractals](https://github.com/sheraadams/sheraadams/assets/110789514/1f912288-3f08-481d-aa4f-3509dd846093) |
 | This is a client-server application with a GUI dashboard for user-friendly database interaction. | ![Database Dashboard](https://github.com/sheraadams/sheraadams/assets/110789514/8da7181b-9fc0-43ce-8050-1fbdbc1d57c3) |
 | This is an [antiderivative and derivative calculator](https://github.com/sheraadams/Derivative-and-Integral-Calculator) programmed to assist with mathematical modeling. | ![Derivative Calculator](https://github.com/sheraadams/sheraadams/assets/110789514/6e41a3b4-f6e1-49e0-84ab-e80df98ea6d5) |
+| These are [educational applications](https://github.com/sheraadams/Educational-programs) programmed to help kids learn about the continents and about space. | ![github](https://github.com/sheraadams/sheraadams/assets/110789514/5898e3c0-03dd-4c45-b311-9610c60c1798) |
 
 ## Skill Badges
 
