@@ -17,9 +17,9 @@
 <!-- skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,ai,ps,eclipse,ae,idea,c,cpp,cs,html,js" />
-    <img src="https://skillicons.dev/icons?i=lua,py,qt,vscode,visualstudio,matlab,mysql,linux,r" />
-    <img src="https://skillicons.dev/icons?i=pr,ae,css" />
+    <img src="https://skillicons.dev/icons?i=java,lua,cpp,cs,html,js,py,eclipse,ae,idea,spring" />
+    <img src="https://skillicons.dev/icons?i=git,ai,ps,vscode,visualstudio,matlab,mysql,linux,r" />
+    <img src="https://skillicons.dev/icons?i=pr,ae,css,mongodb,maven,androidstudio,bash,powershell" />
   </a>
 </p>
 
