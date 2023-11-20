@@ -11,8 +11,8 @@
 | This is the [Java Android app version](https://github.com/sheraadams/Calculus-Helper-Android-App) of my antiderivative and derivative calculator. |![calculus app](https://github.com/sheraadams/sheraadams/assets/110789514/37127bf3-695c-44bc-b24f-11914755c5bd)|
 | This is a [discrete math encryption tool](https://github.com/sheraadams/Simple-RSA-Mesage-Encryption) programmed to help with encryption and decryption processes using the RSA method. | ![github2](https://github.com/sheraadams/sheraadams/assets/110789514/6bfe8503-b1bf-404a-8ea9-d9c825365b3e) |
 | These are [educational applications](https://github.com/sheraadams/Educational-programs) programmed to help kids learn about the continents and about space. | ![github](https://github.com/sheraadams/sheraadams/assets/110789514/5898e3c0-03dd-4c45-b311-9610c60c1798) |
-
-
+| This project is a [client-server Python/ MongoDB application](https://github.com/sheraadams/Database-Example-Degree-Completion-Tracker) created to track degree completion at SNHU over time. |  ![database example](https://github.com/sheraadams/499/assets/110789514/c47e1f26-17fc-4498-805f-aa212d90c53e) |
+| This is a [data analysis project](https://public.tableau.com/app/profile/sheraadamsmedia/viz/SuicideDataAnalysis_16577546147860/Dashboard1) comparing suicide rates over time, by gender, and country of residence. | ![suicicde data analysis](https://github.com/sheraadams/sheraadams/assets/110789514/f1b30b26-81f1-4143-88b8-1a620456d934) |
 ## Skill Badges
 <!-- skills -->
 <p align="center">
