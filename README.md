@@ -3,7 +3,7 @@
 <!-- TABLE -->
 | Project Description | Project Image Preview |
 | --- | --- |
-| This is a Calculus Helper. It is the [antiderivative and derivative calculator](https://github.com/sheraadams/Derivative-and-Integral-Calculator) programmed to assist with mathematical modeling. | ![Derivative Calculator](https://github.com/sheraadams/sheraadams/assets/110789514/6e41a3b4-f6e1-49e0-84ab-e80df98ea6d5) |
+| This is a Calculus Helper. It is the [antiderivative and derivative calculator](https://github.com/sheraadams/Derivative-and-Integral-Calculator) programmed to assist with mathematical modeling. |![deriv](https://github.com/sheraadams/sheraadams/assets/110789514/ba9264ce-e8d6-45bd-9ef0-961577083359)|
 | This is the [Java Android app version](https://github.com/sheraadams/Calculus-Helper-Android-App) of my antiderivative and derivative calculator. |![ndroid calc2](https://github.com/sheraadams/sheraadams/assets/110789514/8b1a979f-c291-4670-a8f0-5cc102c9bf68)|
 | This is a [data analysis tableau project](https://public.tableau.com/app/profile/sheraadamsmedia/viz/SuicideDataAnalysis_16577546147860/Dashboard1) comparing suicide rates over time, by gender, and country of residence. | ![suicicde data analysis](https://github.com/sheraadams/sheraadams/assets/110789514/f1b30b26-81f1-4143-88b8-1a620456d934) |
 | This is a client-server application with a GUI dashboard for user-friendly database interaction. | ![Database Dashboard](https://github.com/sheraadams/sheraadams/assets/110789514/8da7181b-9fc0-43ce-8050-1fbdbc1d57c3) |
