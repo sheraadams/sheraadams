@@ -12,7 +12,7 @@
 | This is an [interactive 3D scene](https://github.com/sheraadams/Shapes-and-PBR-Materials) in C++ using OpenGL and GLFW. | ![Textures Image](https://github.com/sheraadams/sheraadams/assets/110789514/a006f2ab-ab94-427a-abd8-cb2c67d9a436) |
 | This is a [fractal animation](https://github.com/sheraadams/OpenGL-Fractal-Animation) programmed in C++ and OpenGL. | ![fractal](https://github.com/sheraadams/sheraadams/assets/110789514/aa5a1fd1-b069-465f-94ee-43985160d435)|
 | This project is a client-server Python/ MongoDB application created to track degree completion at SNHU over time while also showcasing my work with data structures. | ![dash123](https://github.com/sheraadams/sheraadams/assets/110789514/5f6b055d-8107-48bd-b4da-b6572a305f93) | 
-| This is a [discrete math encryption tool](https://github.com/sheraadams/Simple-RSA-Mesage-Encryption) programmed to help with encryption and decryption processes using the RSA method. | ![github2](https://github.com/sheraadams/sheraadams/assets/110789514/6bfe8503-b1bf-404a-8ea9-d9c825365b3e) |
+| This is a [discrete math encryption tool](https://github.com/sheraadams/Simple-RSA-Mesage-Encryption) programmed to help with encryption and decryption processes using the RSA method. |![encryption](https://github.com/sheraadams/sheraadams/assets/110789514/ea427ae1-20c4-4e71-b4cb-da5aab4378d5)|
 |This is a [data analysis R script](https://github.com/sheraadams/Suicide-Data-Analysis) used to draw insights about suicide rates by country over age category. |![suicide](https://github.com/sheraadams/sheraadams/assets/110789514/a7a61735-558a-4b9c-a769-bf77348314a6)|
 ## Skill Badges
 <!-- skills -->
