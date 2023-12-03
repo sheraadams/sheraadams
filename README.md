@@ -15,7 +15,7 @@
 | This project is a client-server Python/ MongoDB application created to track degree completion at SNHU over time. | ![dash123](https://github.com/sheraadams/sheraadams/assets/110789514/5f6b055d-8107-48bd-b4da-b6572a305f93) | 
 | These are [educational applications](https://github.com/sheraadams/Educational-programs) programmed to help kids learn about the continents and about space. | ![3](https://github.com/sheraadams/sheraadams/assets/110789514/ef9c6966-9596-422d-aa88-70a21cfe1030) |
 
-
+Check out [my references here](https://github.com/sheraadams/sheraadams/edit/main/references.md).
 ## Skill Badges
 <!-- skills -->
 <p align="center">
