@@ -59,7 +59,7 @@ table/#:~:text=The%20disadvantages%20of%20hash%20tables,next%20or%20previous%20d
 
 • Shockfactor.de (n.d.). funny cartoon bird looking at red cardinal bird. https://as1.ftcdn.net/v2/jpg/02/54/62/24/1000_F_254622463_Z6mOtbO4reA5pZPNwAmjB5xzSYLCOwxn.jpg
 
-• Southern New Hampshire University. (n.d.). Project Two Dashboard. Retrieved November 8, 2023, from https://learn.snhu.edu/content/enforced/1426466-CS-340-H7046-OL-TRAD-UG.23EW2/course_documents/ProjectTwoDashboard.ipynb?_&d2lSessionVal=ScQoRYLN9OTGv4T9RbCyYwie6&ou=1332057&_&d2lSessionVal=XzbrFuDj5JUxXnvuaoyE2Tpdq&ou=1426466
+• Southern New Hampshire University. (n.d.). Project Two Dashboard. Retrieved November 8, 2023, from https://learn.snhu.edu/
 
 • Synelnychenko, Dmytro (n.d.) Elegant violet, purple glitter, sparkle confetti texture. Christmas abstract background, seamless pattern. 
 https://as2.ftcdn.net/v2/jpg/03/01/76/21/1000_F_301762187_wWx4bEIFLL89QrhlvyoWcYwwdNiOpFyb.jpg
