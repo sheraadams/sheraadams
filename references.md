@@ -45,6 +45,8 @@ table/#:~:text=The%20disadvantages%20of%20hash%20tables,next%20or%20previous%20d
 
 • Oleksandra. (n.d.).
 
+• PhilJay. (n.d.). GitHub - PhilJay/MPAndroidChart: A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations. GitHub. https://github.com/PhilJay/MPAndroidChart/tree/master
+
 • Protractor Vector Accurate, HD png Download https://www.pngitem.com/middle/TJTxmoT_protractor-vector-accurate-hd-png-download/
 
 • Protractor. Unknown (n.d.) Computer Icons Protractor. https://www.pngegg.com/en/png-winpm
