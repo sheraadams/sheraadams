@@ -20,7 +20,7 @@ Check out [my references here](https://github.com/sheraadams/sheraadams/edit/mai
 <!-- skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,lua,cpp,cs,html,js,py,eclipse,ae,idea,spring" />
+    <img src="https://skillicons.dev/icons?i=java,lua,cpp,swift,html,js,py,eclipse,ae,kotlin,spring" />
     <img src="https://skillicons.dev/icons?i=git,ai,ps,vscode,visualstudio,matlab,mysql,linux,r" />
     <img src="https://skillicons.dev/icons?i=pr,css,mongodb,maven,androidstudio,bash,powershell" />
   </a>
