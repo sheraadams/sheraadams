@@ -11,7 +11,7 @@
 | This is a [C++ OpenGL Space Shooter Game](https://github.com/sheraadams/Space-Shooter-Game) programmed for fun and inspired by [LearnOpenGL.com's](https://learnopengl.com/) Breakout game.| ![space](https://github.com/sheraadams/sheraadams/assets/110789514/136a43ec-b512-45e8-b326-9d95c50ddc4f) |
 | This is an [interactive 3D scene](https://github.com/sheraadams/Shapes-and-PBR-Materials) in C++ using OpenGL and GLFW. | ![Textures Image](https://github.com/sheraadams/sheraadams/assets/110789514/a006f2ab-ab94-427a-abd8-cb2c67d9a436) |
 | This is a [fractal animation](https://github.com/sheraadams/OpenGL-Fractal-Animation) programmed in C++ and OpenGL. | ![fractal](https://github.com/sheraadams/sheraadams/assets/110789514/aa5a1fd1-b069-465f-94ee-43985160d435)|
-| This is a client-server application with a [GUI dashboard](http://sheraadams.github.io) for user-friendly database interaction. | ![340](https://github.com/sheraadams/sheraadams/assets/110789514/33141592-f88c-448f-9980-6b863738bfc0)|
+| This is a Python PyMongo NoSQL client-server application with a [GUI dashboard](http://sheraadams.github.io) using Numpy, Pandas, and Dash for user-friendly database interaction. | ![340](https://github.com/sheraadams/sheraadams/assets/110789514/33141592-f88c-448f-9980-6b863738bfc0)|
 | This is an [iOS Calculus Helper app](https://github.com/sheraadams/iOS-Calculus-App) to help with mathematical modeling.|![image](https://github.com/sheraadams/sheraadams/assets/110789514/44832b0e-7830-479f-b4e3-4379bfb1576b)|
 
 Check out [my references here](https://github.com/sheraadams/sheraadams/edit/main/references.md) and check out [my portfolio](https://sheraadams.github.io) here.
