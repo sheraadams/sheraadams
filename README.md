@@ -3,7 +3,7 @@
 <!-- TABLE -->
 | Project Description | Project Image Preview |
 | --- | --- |
-| This is a [Python RSA encryption/ decryption tool](https://github.com/sheraadams/Simple-RSA-Mesage-Encryption) programmed to help with encryption and decryption processes using the RSA method. | ![Untitled-2](https://github.com/sheraadams/sheraadams/assets/110789514/37c25b83-c98b-42f4-9adb-e845e3105ecd)|
+| This is a [Python RSA encryption/ decryption tool](https://github.com/sheraadams/Simple-RSA-Mesage-Encryption) programmed to assist secure messaging by providing message encoding and decoding. | ![Untitled-2](https://github.com/sheraadams/sheraadams/assets/110789514/37c25b83-c98b-42f4-9adb-e845e3105ecd)|
 | This is a derivative and integral calculator. It is the [antiderivative and derivative calculator](https://github.com/sheraadams/Derivative-and-Integral-Calculator) programmed to assist with mathematical modeling. | ![Untitled-2](https://github.com/sheraadams/sheraadams/assets/110789514/21408c90-d474-4601-9315-a73b49dc2ab6)|
 | This is the [a college course tracker mobile app](https://github.com/sheraadams/Course-Tracker-Android-App) programmed in Java/ Kotlin. |![288179271-480f8394-f429-42b9-818f-276ee5b76161](https://github.com/sheraadams/sheraadams/assets/110789514/3f432345-cbad-4807-b4f8-f287b95428f4)|
 | This is the [Java Android app version](https://github.com/sheraadams/Calculus-Helper) of my antiderivative and derivative calculator. |![android calc2](https://github.com/sheraadams/sheraadams/assets/110789514/a45bd45c-4405-4819-b148-dbc1efa52d35)|
